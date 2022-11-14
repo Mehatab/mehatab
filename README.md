@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehatab&theme=dracula" />
 </a> -->
 
-<img src="./profile-3d-contrib/profile-custom-evergreen.svg" width="300">
+<img src="./profile-3d-contrib/profile-custom-evergreen.svg" width="500">
 
 <!-- ![]() -->
 
