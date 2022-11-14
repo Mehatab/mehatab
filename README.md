@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<a href="https://github.com/mehatab">
+<!-- <a href="https://github.com/mehatab">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehatab&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/mehatab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehatab&theme=dracula" />
-</a>
+</a> -->
 
 ![](./profile-3d-contrib/profile-custom-evergreen.svg)
 
