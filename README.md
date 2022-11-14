@@ -8,7 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehatab&theme=dracula" />
 </a> -->
 
-![](./profile-3d-contrib/profile-custom-evergreen.svg)
+<img src="./profile-3d-contrib/profile-custom-evergreen.svg" width="300">
+
+<!-- ![]() -->
 
 <!--
 **mehatab/mehatab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
