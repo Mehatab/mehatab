@@ -10,4 +10,3 @@ A software engineer
 </p>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="80" height="40" /> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehatab&show_icons=true&locale=en" alt="mehatab" /></p>
