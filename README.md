@@ -1,6 +1,6 @@
 ### Hey there 👋 
 
-A software engineer [![Github](https://img.shields.io/github/followers/mehatab?label=Follow%20Me&style=social)](https://github.com/mehatab)
+I'm a software engineer.  [![Github](https://img.shields.io/github/followers/mehatab?label=Follow%20Me&style=social)](https://github.com/mehatab)
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehatab&show_icons=true&&line_height=40)  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehatab&show_icons=true) |
 | ------------- | ------------- |
