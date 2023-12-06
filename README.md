@@ -2,6 +2,10 @@
 
 A software engineer
 
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehatab&show_icons=true&&line_height=40)  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehatab&show_icons=true) |
+| ------------- | ------------- |
+
 ### Languages and Tools
 <p>
     <a href="https://developer.android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" /> </a>
